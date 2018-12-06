@@ -1,0 +1,23 @@
+{
+  "name": "yoint_1",
+  "version": "1.0.0",
+  "description": "Restaurant",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dogliy/yoint_1.git"
+  },
+  "author": "nir adler shahar rubinshtein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dogliy/yoint_1/issues"
+  },
+  "homepage": "https://github.com/dogliy/yoint_1#readme"
+}
