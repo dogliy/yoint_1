@@ -22,9 +22,8 @@ app.get('/',(req,res)=>{
         text+=data.message[index] + "<br>";
 
     }
-          res.send(text);
-
-    
+        text+="success";
+        res.send(text);
 });
 
 
